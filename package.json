@@ -1,0 +1,19 @@
+{
+  "name": "chainx_js",
+  "version": "1.0.0",
+  "description": "some useful fuctions for chainx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chainx",
+    "balance"
+  ],
+  "author": "cdyfng",
+  "license": "ISC",
+  "dependencies": {
+    "chainx.js": "^2.20.3",
+    "lodash": "^4.17.15"
+  }
+}

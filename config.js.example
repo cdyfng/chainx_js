@@ -1,0 +1,10 @@
+var config = {
+  // debug ��?true 时，用于本地调试
+  debug: true,
+
+   accounts: ['5Pr1XZ817z5S8p1dsSQZXQgMqQAobwKM4bWQpczEyj9BzfJA', 
+              '5TSQuQSsiJgaWcMpjjD2AWbpPVaJW9aCVXVWrNL4N5YhTSHZ',
+   ],
+ };
+
+module.exports = config;
